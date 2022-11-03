@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Adrien
+first_name:
 middle_name:
-last_name: Marjollet
+last_name: Adrien Marjollet
 email: adrien.marjollet1@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -94,7 +94,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  Best way to contact me is by email
+  Best way to contact me is by email at adrien.marjollet1@gmail.com
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -112,7 +112,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: About various topics
+blog_description: Covering (or later) the topics of
 permalink: /blog/:year/:title/
 
 # Pagination
